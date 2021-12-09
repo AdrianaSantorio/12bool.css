@@ -1,0 +1,10 @@
+
+.background-blue {
+    background-color: dodgerblue;
+    margin: 1pc solid white;
+    color: white;
+}
+
+[class^="col"] {
+    height: 50px;
+}
