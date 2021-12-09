@@ -167,6 +167,19 @@
     text-align: end;
 }
 
+/* Align Items */
+
+.align-start {
+    Align-items:flex-start;
+   }
+
+.align-center {
+    Align-items:center;
+   }
+   
+.align-end {
+    Align-items:flex-end;
+}
 
 /* MEDIA QUERY */
 
