@@ -167,6 +167,18 @@
     text-align: end;
 }
 
+.content-around {
+    justify-content: space-around;
+}
+
+.content-between {
+    justify-content: space-between;
+}
+
+.content-evenly {
+    justify-content: space-evenly;
+}
+
 /* Align Items */
 
 .align-start {
